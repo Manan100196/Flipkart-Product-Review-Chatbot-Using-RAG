@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: flipkart-bot
+Version: 0.0.1
+Author: Manan
+Author-email: manan10195@gmail.com
+Requires-Dist: langchain-astradb
+Requires-Dist: langchain
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
