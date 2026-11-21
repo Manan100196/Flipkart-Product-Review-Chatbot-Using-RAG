@@ -8,6 +8,8 @@ flipkart_bot.egg-info/SOURCES.txt
 flipkart_bot.egg-info/dependency_links.txt
 flipkart_bot.egg-info/requires.txt
 flipkart_bot.egg-info/top_level.txt
+prompt_library/__init__.py
+prompt_library/prompt.py
 retriever/__init__.py
 retriever/retrieval.py
 utils/__init__.py
